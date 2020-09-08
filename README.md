@@ -2,8 +2,8 @@
 
 ## Here you can find out a little bit about me.
 - :mortar_board: I’m currently aplied on Computer Science in UFRRJ
-- 🌱 I’m currently learning about Software Enginier and Statistic
-- 👯 I’m collaborating on [EasyStream.jl][EasyStream] and [SyntheticDatasets.jl][Synthetic]
+- 🌱 I’m currently learning about Software Engineer and Statistic
+- :anchor: I’m collaborating on [EasyStream.jl][EasyStream] and [SyntheticDatasets.jl][Synthetic]
 
 ## Connect with me:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
