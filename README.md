@@ -1,7 +1,7 @@
 ### Hi there, I'm Pedro 👋
 
 ## Here you can find out a little bit about me.
-- :mortar_board: I’m currently aplied on Computer Science in UFRRJ
+- :mortar_board: I’m currently studying Computer Science at UFRRJ
 - 🌱 I’m currently learning about Software Engineer and Statistic
 - :anchor: I’m collaborating on [EasyStream.jl][EasyStream] and [SyntheticDatasets.jl][Synthetic]
 
